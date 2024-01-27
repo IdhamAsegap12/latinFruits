@@ -1,4 +1,4 @@
-package com.kamusku
+package com.idham.kamusku
 
 import android.app.Application
 import com.facebook.react.PackageList

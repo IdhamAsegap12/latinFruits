@@ -1,4 +1,4 @@
-package com.kamusku
+package com.idham.kamusku
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
